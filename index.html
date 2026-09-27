@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Untuk Velin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="stage" id="stageEnvelope">
+  <div id="envWrap" onclick="openEnvelope()">
+    <div class="envelope">
+      <div class="env-body"></div>
+      <div class="env-flap"></div>
+      <div class="env-seal">V</div>
+    </div>
+  </div>
+  <div class="env-hint">ketuk amplopnya, Vel ✉️</div>
+</div>
+
+<div class="stage hidden" id="stageMain">
+  <h1 class="headline">Happy Birthday,<br><em>Velin</em> 🎂</h1>
+  <p class="sub">semoga hari ini penuh senyum dan kejutan kecil</p>
+  <button class="sound-btn" id="soundBtn" onclick="toggleSound()">🔊 Musik menyala</button>
+  <div class="boxes">
+    <div class="box" onclick="showDetail('photos')">
+      <div class="icon">📸</div>
+      <div class="label">Kenangan<br>Kita</div>
+    </div>
+    <div class="box" onclick="showDetail('link')">
+      <div class="icon">🎁</div>
+      <div class="label">Kejutan<br>Spesial</div>
+    </div>
+    <div class="box" onclick="showDetail('letter')">
+      <div class="icon">💌</div>
+      <div class="label">Surat<br>Untukmu</div>
+    </div>
+  </div>
+</div>
+
+<div class="stage hidden" id="stageDetail">
+  <button class="back-btn" onclick="showMain()">kembali</button>
+  <div class="panel" id="detailContent"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
