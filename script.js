@@ -19,7 +19,7 @@ const linkPanel = `
 
 const letterPanel = `
   <h2>Untuk Velin 💌</h2>
-  <div class="letter">Halo Velinnn, maaf ya suratnya telat, aku lagi sibuk banget.
+  <div class="letter">Halo Velinnn, maaf ya suratnya telat, hihihihihihihi.
 
 Tapi aku mau ucapin selamat ulang tahun ya, sayang. Semoga di umur yang baru ini kamu memperoleh lebih banyak kesempatan dan keberuntungan. Semoga semua masalah yang menimpa kamu segera selesai, dan semoga hal-hal yang kamu rencanakan bisa berjalan dengan baik ya.
 
