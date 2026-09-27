@@ -19,15 +19,13 @@ const linkPanel = `
 
 const letterPanel = `
   <h2>Untuk Velin 💌</h2>
-  <div class="letter">Selamat ulang tahun, Velin.
+  <div class="letter">Halo Velinnn, maaf ya suratnya telat, aku lagi sibuk banget.
 
-Di hari yang spesial ini, aku cuma mau bilang makasih udah jadi Velin yang selalu ada, yang sabar dengerin cerita-ceritaku, dan yang bikin hari-hari biasa jadi terasa lebih hangat.
+Tapi aku mau ucapin selamat ulang tahun ya, sayang. Semoga di umur yang baru ini kamu memperoleh lebih banyak kesempatan dan keberuntungan. Semoga semua masalah yang menimpa kamu segera selesai, dan semoga hal-hal yang kamu rencanakan bisa berjalan dengan baik ya.
 
-Semoga di umur yang baru ini, semua yang kamu usahakan pelan-pelan jadi kenyataan. Semoga kamu selalu sehat, selalu dikelilingi orang-orang yang sayang, dan selalu punya alasan buat tersenyum tiap bangun pagi.
+Aku bangga bisa punya pasangan sebaik kamu. Terima kasih ya, sayang.
 
-Makasih udah mau jalan bareng sampai sejauh ini. Aku bersyukur banget punya kamu.
-
-Selamat ulang tahun, sayang. Aku sayang kamu.</div>
+Sekali lagi, selamat ulang tahun, Velin. Aku sayang kamu.</div>
   <div class="sign">— Fadhiil</div>
 `;
 
