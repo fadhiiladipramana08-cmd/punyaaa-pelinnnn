@@ -13,7 +13,7 @@ const linkPanel = `
   <h2>Kejutan Spesial 🎁</h2>
   <div class="link-box">
     <p>ada satu hal yang udah disiapin khusus buat kamu.<br>klik tombol di bawah buat liat, ya.</p>
-    <a class="tinker-btn" href="https://www.tinkercad.com/things/hpVUzY3jvCV-ultah-velin?sharecode=ZKUyRZEZfMMNoLy0NiVGOyleC-CdmA7yTLG0XpJhOWs" target="_blank" rel="noopener">Buka Kejutannya →</a>
+    <a class="tinker-btn" href="https://www.tinkercad.com/things/3Uap2DAowe6-buat-pelinnnn?sharecode=2VM7jhJGmhlVpr6P5shv7roIG6laxvqxNHCJ1IYQopg " target="_blank" rel="noopener">Buka Kejutannya →</a>
   </div>
 `;
 
